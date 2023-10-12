@@ -3,5 +3,11 @@ public class Main {
 
         System.out.println("Hello world!");
         System.out.println("Hello world!");
+
+        Bird b = new Bird();
+
+        System.out.println(b);
+
     }
+
 }
