@@ -1,8 +1,10 @@
 public interface Stack {
 
-    String sing();
 
-    void play();
+    int STACK_SIZE = 5;
+   void push(int num);
+   void pop();
+
 
 
 }
