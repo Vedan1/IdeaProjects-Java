@@ -30,9 +30,7 @@ public class Pen {
         return stockListingDate;
     }
 
-    public void setStockListingDate(LocalDate stockListingDate) {
-        this.stockListingDate = stockListingDate;
-    }
+
 
     public void setStock(int stock){
         this.stock = stock;
