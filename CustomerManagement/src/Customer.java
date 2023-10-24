@@ -64,6 +64,38 @@ public class Customer {
         return plan;
     }
 
+    public void setCustomerid(int customerid) {
+        this.customerid = customerid;
+    }
+
+    public void setFirst_name(String first_name) {
+        this.first_name = first_name;
+    }
+
+    public void setLast_name(String last_name) {
+        this.last_name = last_name;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public void setRegistrationAmt(double registrationAmt) {
+        this.registrationAmt = registrationAmt;
+    }
+
+    public void setDob(String dob) {
+        this.dob = dob;
+    }
+
+    public void setPlan(String plan) {
+        this.plan = plan;
+    }
+
     @Override
     public String toString() {
         return "Customer{" +

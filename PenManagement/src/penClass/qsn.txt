@@ -1,0 +1,12 @@
+//Pen Management system ---
+
+/*1. Add Pen - add onto hashmaps
+2. Update Inventory - change inventory stock and update date ✔
+3. Update Discount 20% < 3M - localdate < 3 m -- Price 20% off
+4. Remove Pens < 9 Months -- localdate > 9 m --delete;
+5. Display Inveentory -- Displat Maps Fully (Can Impliment Certain brands(treemaps))
+
+enums Brands Cello , Parker, Reynolds;*/
+
+class pen where
+Material , Stock, StockUpdateDate, StockListingDate, Price, Discount

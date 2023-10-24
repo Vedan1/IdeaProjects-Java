@@ -12,6 +12,7 @@ public class ArrayListTuts {
         numbs.add(3);
         numbs.add(4);
         numbs.add(66);
+        System.out.println(numbs.get(2));
 
         for(int i:numbs){
             System.out.println(i);
