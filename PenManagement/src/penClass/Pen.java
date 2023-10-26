@@ -6,8 +6,17 @@ public class Pen {
 
     PenBrand brand; // from enum
     private String material; // ctor
-    private int stock; // ctor
+    private int stock;  // ctor
     private double price; //ctor
+
+    public void setMaterial(String material) {
+        this.material = material;
+    }
+
+    public String getMaterial() {
+        return material;
+    }
+
     private int discount = 0; // ctor
     LocalDate stockUpdateDate; // stockdate .. .now preferable
     LocalDate stockListingDate; // ctor
@@ -30,7 +39,9 @@ public class Pen {
         return stockListingDate;
     }
 
-
+    public PenBrand getBrand() {
+        return brand;
+    }
 
     public void setStock(int stock){
         this.stock = stock;

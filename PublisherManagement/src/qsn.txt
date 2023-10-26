@@ -1,0 +1,36 @@
+a publishing company both books and video-cassettes versions.
+Write a console-based application to manage books and tapes.
+ The application
+should allow the company owner to perform following tasks:
+1. Publish new book
+2. Publish new tape
+3. List all book publications ordered by publish date in descending order
+4. List top 5 publications of current year based on rating
+5. Remove all publications which are 5 years old
+You can create a class Publication that stores
+• ld (Unique identifier, should be generated automatically)
+title (text),
+• price (in INR),
+• publish date,
+• ratings (integer value between 1 to 10)
+You can have two sub classes — subclass.Book and subclass.Tape
+
+subclass.Book will store page count
+subclass.Tape will store playing time (in minutes)
+
+
+You can have two sub classes — subclass.Book and subclass.Tape
+subclass.Book will store page count
+subclass.Tape will store playing time (in minutes)
+Note: Two publications cannot have same titles. You can use java collection to store items in memory.
+Storing data in relational database in not expected.
+Marks Distribution:
+•
+Basic structure of program including class inheritance,
+choice of suitable collections, basic validations etc. [5 Marks)
+Implementation of functionality 1 [5 Marks)
+Implementation of functionality 2 [5 Marks)
+Implementation of functionality 3 [5 Marks)
+Implementation of functionality 4 [5 Marks)
+Implementation of functionality 5 (10 Marks)
+Java naming convention, exception handling 15 Marks)

@@ -1,0 +1,7 @@
+Toy Management System:
+1. Add Toys.
+2.cahnge Sstock
+3. Less than 1y Discounts 25%.
+4.Lessthn 9 M
+
+2. Toy Sort (via Dates, Use Case,Descending, Ascending).
