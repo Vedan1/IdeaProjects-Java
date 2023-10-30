@@ -11,10 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/AdvanceDSA/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/PenManagement/PenManagement.iml" filepath="$PROJECT_DIR$/PenManagement/PenManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/PublisherManagement/PublisherManagement.iml" filepath="$PROJECT_DIR$/PublisherManagement/PublisherManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Queue/Queue.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRevisionConcepts/src/Stack/Stack.iml" filepath="$PROJECT_DIR$/JavaRevisionConcepts/src/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Stacks/Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/arrays/arrays.iml" filepath="$PROJECT_DIR$/AdvanceDSA/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/day05/day05.iml" filepath="$PROJECT_DIR$/day05/day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/LinkedL/doublyLinkedList/doublyLinkedList.iml" filepath="$PROJECT_DIR$/AdvanceDSA/LinkedL/doublyLinkedList/doublyLinkedList.iml" />
     </modules>
   </component>
 </project>
