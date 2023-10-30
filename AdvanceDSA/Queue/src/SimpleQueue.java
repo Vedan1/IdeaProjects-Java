@@ -1,4 +1,4 @@
-public class Queue {
+public class SimpleQueue {
     int size;
     int queue[] = new int[5];
     int front;
