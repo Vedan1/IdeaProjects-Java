@@ -4,7 +4,7 @@ public class Stack {
     }
 
     int sizes, top = 0;
-    int[] stack = new int[6];
+    int[] stack = new int[sizes];
 
 
 
