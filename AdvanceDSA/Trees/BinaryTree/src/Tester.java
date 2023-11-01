@@ -20,8 +20,11 @@ public class Tester {
         System.out.println();
         System.out.println("The PostOrderTransversal Result is: ");
         b.postOrderTransversal(b.root);
+        System.out.println();
 
-
+       b.search(6,b.root);
+       if(b.flag) System.out.println("element Found");
+       else System.out.println("Element Not Found");
 
     }
 
