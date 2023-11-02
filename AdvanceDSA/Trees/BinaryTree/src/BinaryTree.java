@@ -2,7 +2,7 @@
 public class BinaryTree {
     static Node root;
     static Node left = null, right = null;
-
+    static boolean flag = false;
 
     public static void insert(int data) {
         Node n = new Node();
@@ -34,6 +34,26 @@ public class BinaryTree {
 
         System.out.println();
     }
+
+    public static void search(int data,Node n){
+
+         if(n.data==data){
+            flag=true;
+             return;
+        }
+        else{
+            if(!flag &&n.right!=null){
+                search(data,n.right);
+            }
+            if(!flag &&n.left!=null){
+                search(data,n.left);
+            }
+
+         }
+    }
+
+
+
     public static void inOrderTransversal(Node n){
         if(n==null){
             return;
