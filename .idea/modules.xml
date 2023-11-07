@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/AdvanceDSA.iml" filepath="$PROJECT_DIR$/AdvanceDSA/AdvanceDSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/AscedingToTop/AscedingToTop.iml" filepath="$PROJECT_DIR$/AscedingToTop/AscedingToTop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/SearchingDsa/Binary-Linear-Search/Binary-Linear-Search.iml" filepath="$PROJECT_DIR$/AdvanceDSA/SearchingDsa/Binary-Linear-Search/Binary-Linear-Search.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Trees/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Trees/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomerManagement/CustomerManagement.iml" filepath="$PROJECT_DIR$/CustomerManagement/CustomerManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/IdeaProjects.iml" filepath="$PROJECT_DIR$/IdeaProjects.iml" />
@@ -13,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/PenManagement/PenManagement.iml" filepath="$PROJECT_DIR$/PenManagement/PenManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/PublisherManagement/PublisherManagement.iml" filepath="$PROJECT_DIR$/PublisherManagement/PublisherManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Queue/Queue.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting-DSA/Sorting-DSA.iml" filepath="$PROJECT_DIR$/Sorting-DSA/Sorting-DSA.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRevisionConcepts/src/Stack/Stack.iml" filepath="$PROJECT_DIR$/JavaRevisionConcepts/src/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Stacks/Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdvanceDSA/Trees/Trees.iml" filepath="$PROJECT_DIR$/AdvanceDSA/Trees/Trees.iml" />
